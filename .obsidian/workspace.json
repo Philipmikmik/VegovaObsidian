@@ -11,8 +11,12 @@
             "id": "3059852218e7cfe3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO.md"
+              }
             }
           }
         ]
@@ -144,6 +152,7 @@
     "Kako uporablat Obsidian.md",
     "Plugins.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "!Slike",
     "!Nik_Zapiski/SLO/SLO - SPISI /Vaja (Vodena interpretacija).md",
     "!Nik_Zapiski/SLO/SLO - SPISI /SLO - SPISI IN DOMAČA BRANJA.md",
@@ -175,7 +184,6 @@
     "!Nik_Zapiski/RVP/Schmitt Trigger.png",
     "!Nik_Zapiski/RVP/STEP 7.md",
     "!Nik_Zapiski/RVP/SIEMENS.md",
-    "!Nik_Zapiski/RVP/RVP.md",
     "!Nik_Zapiski/NSA/NSAVaja07_0b.pdf",
     "!Nik_Zapiski/NSA/NSAVaja06_0b.pdf",
     "!Nik_Zapiski/Pasted image 20231208114139.png",
