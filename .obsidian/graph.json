@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "-path:!Nik_Zapiski -path:Excalidraw",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Fizika  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Matematika  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Psihologija  ",
+      "color": {
+        "a": 1,
+        "rgb": 20203
+      }
+    },
+    {
+      "query": "path:RAO  ",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
+    {
+      "query": "path:Slovenščina  ",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4444444444444442,
+  "close": true
+}
