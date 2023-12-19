@@ -1,0 +1,2 @@
+- [ ] Slova 1. domače branje
+- [ ] Psiha mišljenje

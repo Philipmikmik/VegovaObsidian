@@ -1,0 +1,21 @@
+# Kazalo
+1. [[#Definicija]]
+2. [[#Geometrijska sredina]]
+3. [[#Končna vrsta]]
+4. [[#Glej tudi]]
+---
+# Definicija
+$$a_{n}=a_{1}*k^{n-1}$$
+- *"Zap. je geometrijsko, kadar je količnik dveh sosednjih členov konstanten"*
+- $k = \frac{a_{n+1}}{a_{n}}$
+---
+# Geometrijska sredina
+$$g_{s}=\sqrt{a*b}$$
+- Geometrijska sredina a in b je $\sqrt{a*b}$ 
+- Vsak člen je geo. sredina sosedov
+---
+# Končna vrsta
+$$S_{n}=\frac{a_{1}(k^n)-1}{k-1}=a_{1}+a_1*k+a_1*k^2+\dots+a_{1}*k^{n-1}$$
+- Seštevek n-tih členov zaporedja
+# Glej tudi
+- [[Zaporedje]]
