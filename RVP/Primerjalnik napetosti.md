@@ -1,0 +1,1 @@
+![[Primerjalnik napetosti 2023-12-20 19.25.40.excalidraw]]
