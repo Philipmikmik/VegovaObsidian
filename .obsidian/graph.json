@@ -11,35 +11,42 @@
       "query": "path:Matematika  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 3972705
       }
     },
     {
       "query": "path:Fizika  ",
       "color": {
         "a": 1,
-        "rgb": 16770099
+        "rgb": 7386450
       }
     },
     {
       "query": "path:Slovenščina  ",
       "color": {
         "a": 1,
-        "rgb": 327424
+        "rgb": 12029492
       }
     },
     {
       "query": "path:Psihologija  ",
       "color": {
         "a": 1,
-        "rgb": 31743
+        "rgb": 4498558
       }
     },
     {
       "query": "path:RAO  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 13915267
+      }
+    },
+    {
+      "query": "path:RVP  ",
+      "color": {
+        "a": 1,
+        "rgb": 5871812
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9999999999999988,
+  "scale": 1.0136432647705078,
   "close": true
 }
