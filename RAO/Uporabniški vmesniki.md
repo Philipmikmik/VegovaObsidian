@@ -1,0 +1,11 @@
+- Ljudje za interakcijo z računalnikom uporabljajo uporabniški vmesnik
+- Vmesnik je mesto kjer se srečujejo in delujejo neodvisni sistemi, ki med seboj lahko komunicirajo
+- Uporabniški vmesnik je mesto, ki združuje vhodne in izhodne naprave, programsko opremo in te resurse uporablja ter podpira:
+	- Vhod omogoča uporabniku manipulacijo s sistemom
+	- Izhod omogoča sistemu, da pokaže učinke uporabnikove manipulacije
+- Interaktivno risanje v znanosti, tehnologiji in ekonomiji
+- Računalniško podprto snovanje in načrtovanje (CAD) mehanskih električnih in el. naprav
+- Nadzor in krmiljenje procesov
+- Navidezna resničnost
+- Simulacije in animacije pri znanstvenih vizualizacijah
+- Gradbeništvo, kemija, medicina

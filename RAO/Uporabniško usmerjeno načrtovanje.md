@@ -1,0 +1,67 @@
+- Slapovni model
+	- Requirements – Design – Implementation – Verification – Maintenance
+	- Zahteve
+		- Kaj stranka želi?
+			- Informacijski sistem za prodajo svojih domačih izdelkov
+		- Ali so te želje realne (čas, stroški, zahtevnost, izvedbe, ...)?
+			- Čas – osnoven sistem postavim v slabem tednu
+			- Stroški – visoki
+			- Zahtevnost – srednje
+	- Potrebna sistemska in programska oprema
+		- Kako močan strežnik imamo na voljo
+		- Katero programsko opremo bomo potrebovali (Microsoft server, odprtokodni sistemi)
+		- Ima stranka že kakšne plačljive storitve, ki jih lahko uporabimo
+		- Za katero platformo razvijamo, ...
+	- Načrtovanje različnih komponent
+		- UML model
+		- Podatkovne baze
+		- Primeri uporabe (Use case diagram)
+	- Načrtovanje uporabniškega vmesnika
+		- Že pri zbiranju zahtev se pomenimo o zgledu aplikacije
+		- Zmerimo zahtevan input/output naše aplikacije
+			- Razvidno tudi v use case diagram
+		- Upoštevamo CGP (celostno grafično podobo), če je naročnik ima
+			- Implementacija
+			- Testiranje
+		- Ko je vse sprogramirano in implementirano, naš program izčrpno pretestiramo
+		- Testiranje mora opraviti tudi stranka
+			- Odkrijejo napake, ki se strokovnjakom ne dogajajo ker jim je sistem samoumeven
+			- Zato pogosto pride do nestrinjanja oz. Zahtev po popravkih ravno pri UV
+	- Vzdrževanje
+		- Ko projekt pride uspešno čez fazo testiranja ga samo še vzdržujemo
+	- Pozitivne lastnosti
+		- Preprost za izvajanje
+			- Linearna izvedba
+			- Točno vemo na kateri fazi smo
+		- Najdene napake v času zbiranja zahtev in načrtovanja drastično zmanjšata stroške izdelave
+		- Poudarek na dokumentiranju celotnega projekta (zahteve in razvoj) in ne samo dokumentiranja kode
+			- Projekt ni vezan na osebje, če nek programer ne ostane na projektu ga naslednji precej lažje nadaljuje
+	- Negativne lastnosti
+		- Stranke pogosto ne vedo kaj točno potrebujejo
+			- Nove zahteve sredi projekta zelo povečajo čas in stroške izvedbe
+		- Programerji pogosto v začetku ne poznajo vseh omejitev (npr. Strojne opreme na kateri naj bi aplikacija delovala)
+		- Pri testiranju se pogosto spregledajo robni primeri delovanja
+- Iterativni model
+- Spiralni model
+- Mentalni model
+	- Mentalni model (človekove sposobnosti) obsega interakcijo med uporabniki in računalniki in tako formirajo temelj za principe in navodila za načrtovanje vmesnikov.
+	- Principi
+		- Principi so visokonivojski koncepti, za načrtovanje uporabniških vmesnikov. Nastali so na osnovi človekovega mentalnega modela ter njegovih fizičnih psihičnih lastnosti.
+	- Navodila
+		- Navodila izhajajo iz principov in so dejanski napotki kako graditi uporabniške vmesnike.
+		- Navodila se nanašajo na:
+			- Predstavitev grafičnih gradnikov vmesnika uporabnika in estetiko
+			- Interakcijo preko grafičnih gradnikov in naprav za interakcijo
+			- Lastnosti gradnikov in njihove medsebojne relacije
+		- Problem pri novih tehnologijah (npr. virtualna resničnost)
+			- Navodila lahko nastanejo šele po določenem času uporabe teh novih tehnologij
+	- Standardi
+		- Standardi definirajo karakteristike objektov in sistemov, ki jih uporabljamo vsakodnevno (npr. QWRERTY)
+			- ISO: International Standard Organization
+			- ANSI: American National Standard Institute
+			- W3C
+		- Zakaj standardi?
+			- Naše življenje je lažje
+			- Lažja izbira in uporaba informacijsko procesne opreme
+			- Eliminacija nekonsistentnosti in razlik
+	- [[Nielsonovih 10 principov]]
