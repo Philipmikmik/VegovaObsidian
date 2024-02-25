@@ -34,27 +34,21 @@
 		- Konkretna
 		- Kratka
 4. **Uporabnikov nadzor in svoboda**
-	- Dobro označeni izhodi – uporabnik naj ne bo ujetnik
+	- Dobro označeni izhodi
 	- Vsi dialogi morajo imeti gumb Cancel
 	- Zagotovi razveljavitev akcije (Undo)
 	- Zagotovi nadzor nad podatki
-	- Dolge operacije naj bodo prekinjene
 	- Omogoči urejevanje vnesenih podatkov s strani uporabnika
 5.  **Vidljivost statusa sistema**
 	-  Iluzija napredka – uporabnik mora biti ves čas obveščen o statusu sistema
 	- Tekoče spremembe
-	- Povdarjanje in vidljivost izbora
+	- Poudarjanje in vidljivost izbora
 	- Statusna vrstica
 	- Vidljivost akcij, ukazov, načinov in stanja med navigacijo
-	- Odzivni časi
-		- < 0.1s: se zdi zvezno
-		- 0.1 – 1s: uporabnik opazi, povratna informacija ni potrebna
-		- 1 – 5s: kurzor naj spremeni obliko
-		- > 5s: prikaži indikator napredka
 6. **Fleksibilnost in učinkovitost**
 	- Zagotovi lahko naučljive bližnjice za pogoste operacije
-		- Bližnjice preko tipkovnice (mnemoniki, bližnjice)
-		- Okrajšave ukazov (alias)
+		- Bližnjice preko tipkovnice
+		- Okrajšave ukazov
 	- Zagotovi:
 		- Privzete nastavitve
 		- Zgodovino
@@ -74,9 +68,7 @@
 		- Copy, Paste, Cut, Open
 	- Vse potrebne informacije naj bodo vidne
 9. **Javljanje napak, diagnoza, reševanje**
-	- Bodi natačen, daj dobro obvestilo o napaki
-		- File missing or wrong format (kateri format je pravi)
-		- File can't be parsed (ime datoteke)
+	- Bodi natačen, daj dobro obvestilo o napaki, primeri:
 		- Line too long (katera vrstica)
 		- Name contains bad characters (katere)
 	- Skrivaj tehnične detajle, razen na željo
@@ -84,7 +76,6 @@
 		- 404 Page Not Found
 	- Daj konstruktivno pomoč
 		- Povej zakaj je prišlo do napake in kako jo odpraviti
-	- Bodi prijazen in ne grajaj
 10. **Estetika in minimalistično načrtovanje**
 	- Manj je več, preprostost
 		- Izogibaj se odvečni informaciji, grafikam, lastnostim
