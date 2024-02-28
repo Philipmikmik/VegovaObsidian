@@ -12,16 +12,15 @@
 		- Velikost, položaj, brava, besede (pojasnila, terminologija)
 	- Vrstni red ukazov in argumentov
 		- Prefiksna ali postfiksna notacija
-	- Upoštevaj navodila platform
 	- Konsistentnost omogoča uporabnikom, da prenesejo svoje obstoječe znanje z lahkoto na nov vmesnik
-	- Vrste konsistentnosti
+	- Vrste konsistentnosti:
 		- Notranja (znotraj dane aplikacije)
 		- Zunanja (znotraj platforme npr. Kako je z menuji pri drugih?)
 		- Metaforična (v primerjavi z objekti realnega sveta)
 	- Upoštevaj navodila platform
-		- Java Look / Feel Design Guidelines
-		- Apple Human Interface Guidelines
-		- Windows Vista User Experience Guidelines
+		- *Java Look / Feel Design Guidelines*
+		- *Apple Human Interface Guidelines*
+		- *Windows Vista User Experience Guidelines*
 3. **Pomoč in dokumentacija**
 	- Uporabniki ne berejo priročnikov
 		- Izboljšaj vmesnik v smeri njigovih opravil, ne pa da jih učiš svojega sistema

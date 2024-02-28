@@ -8,7 +8,7 @@
 	- Načrtovanje uporabniškega vmesnika
 		- Že pri zbiranju zahtev se pomenimo o zgledu aplikacije
 		- Zmerimo zahtevan input/output naše aplikacije
-		- Upoštevamo CGP (celostno grafično podobo), če je naročnik ima
+		- Upoštevamo CGP *(celostno grafično podobo)*, če je naročnik ima
 			- Implementacija
 			- Testiranje
 		- Ko je vse sprogramirano in implementirano, naš program izčrpno pretestiramo
