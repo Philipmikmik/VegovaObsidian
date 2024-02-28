@@ -1,11 +1,11 @@
 # Vrste slik
-- Bitne (rastrske slike) .png
+- Bitne (rastrske slike) -> **.png, .gif, .jpg**
 	-  2D tabela slikovnih elementov (pikslov)
 	- Piksel je najmanjši element slike
 		- Vsebuje zapis barve
 	- Glede na slikovno globino ločimo
-		- Črno-belo, sivinske, barvne
-- Vektorska grafika (ta zmeraj dobro zgleda) .svg
+		- Črno-belo(1bit), sivinske(2bita), barvne(24bitov)
+- Vektorska grafika (ta zmeraj dobro zgleda) -> **.svg, .ai**
 	- Slika opisana z matematičnimi izrazi
 		- Črte, krivulje, krog
 	- Atributi
@@ -24,4 +24,4 @@
 - Piksel je vrednost v točki, ne kvadrat
 - Parameter vzorčenja je število pisklov
 	- Če jih imamo premalo pride do prekrivanja
-	- Nyquistov zakon
+	- Nyquistov zakon (Sample rate mora biti dvakrat tolikšen kot največja frekvenca ki jo zajamemo signala, da se zmanjša možnost popačenja slike)

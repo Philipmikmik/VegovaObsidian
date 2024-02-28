@@ -1,9 +1,0 @@
-- Konzolno usmerjeni uporabniški vmesniki (Akcija – Objekt):
-	- Navadni tekstovni vmesniki
-	- Konzolni interaktivni tekstovni vmesniki
-- Grafično podprti up. Vmesniki (Objekt – Akcija):
-	- Dogodkovni interaktivni vmesniki ([[X11]])
-	- Dogodkovni interaktivni vmesniki z grafičnim uporabniškim vmesnikom (GUI)
-		- Pišemo le kodo, ki pomeni odzive na dogodke
-			- Odzivne funkcije (callback, message handlers...)
-			- Poslušalci (listeners)
