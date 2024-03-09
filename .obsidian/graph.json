@@ -18,7 +18,7 @@
       "query": "path:Fizika  ",
       "color": {
         "a": 1,
-        "rgb": 16770099
+        "rgb": 14725458
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.44444444444444386,
+  "scale": 0.9999999999999993,
   "close": true
 }
