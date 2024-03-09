@@ -3,7 +3,7 @@
   "search": "-path:Excalidraw -path:!Nik_Zapiski  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:RVP  ",
+      "color": {
+        "a": 1,
+        "rgb": 6320190
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9999999999999993,
+  "scale": 0.6666666666666659,
   "close": true
 }

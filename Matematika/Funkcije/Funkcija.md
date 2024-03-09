@@ -1,6 +1,14 @@
 # Kazalo
 1. [[#Definicija]]
-2. [[#Funkcije]]
+2. [[#Računanje z funkcijami]]
+	1. [[#Osnovno računanje]]
+	2. [[#Sestavljanje funkcij]]
+	3. [[#Pretrganost]]
+3. [[#Limita funkcije]]
+	1. [[#Računanje z limitami]]
+4. [[#Odvod funkcije|Odvod funkcije]] 
+5. [[#Adicijski izreki]]
+6. [[#Funkcije]]
 ---
 # Definicija
 $$f: x \rightarrow f(x)$$
@@ -10,18 +18,18 @@ $$f: x \rightarrow f(x)$$
 - Graf: $\Gamma=\{(x,y); y=f(x);x\in D_{f}\}$
 ---
 # Računanje z funkcijami
-## 1. Osnovno računanje
+## Osnovno računanje
 - $D_{f}=D_{g}=[a,b]$
 - Seštevanje -> $(f+g)(x)=f(x)+g(x)$
 - Odštevanje -> $(f-g)(x)=f(x)-g(x)$
 - Množenje -> $(fg)(x)=f(x)*g(x)$
 - Deljenje -> $(\frac{f}{g})(x)=\frac{f(x)}{g(x)};\space g(x)\ne0$
 - Produkt z št. -> $(c*f)(x)=f(x)*c;\space c\in\Bbb{R}$
-## 2. Sestavljanje funkcij 
+## Sestavljanje funkcij 
 $$(f\circ g)(x)=f(g(x))$$
 - $Z_{g}=D_{f}$
 ![[Funkcija 2023-12-02 15.47.24.excalidraw]]
-## 3. Pretrganost
+## Pretrganost
 - **Def.** -> *Funkcija je na intervalu $[a,b]$ zvezna, če
  je tam graf NEPRETRGANA KRIVULJA.*
 	 -> *Točke x iz $D_{f}$, kjer je graf pretrgan se imenujejo TOČKE NEZVEZNOSTI.*
@@ -42,6 +50,14 @@ $$\lim_{x\rightarrow a}f(x)$$
 - **Posebni primeri**:
 1. $\lim_{x\to\infty}{\frac{1}{x}}=0\ ;\ \lim_{x\to\infty}{\frac{1}{x}}=0$
 2. $\lim_{x\to\infty}{\frac{1}{x^{n}}}=0\ ; \ n>0$
+---
+# [[Odvod funkcije]]
+---
+# Adicijski izreki
+- $\sin(x\pm y)=\sin x*\cos y\pm\sin y*\cos x$
+- $\cos(x\pm y)=\cos x*\cos y\mp\sin y*\sin x$
+- $\tan(x\pm y)=\frac{\tan{x}\pm\tan{y}}{1\mp\tan{x}*\tan{y}}$
+- $\cot(x\pm y)=\frac{\cot{x}*\cot{y}\mp 1}{\cot{x}\pm\cot{y}}$
 ---
 # Funkcije
 - [[Linearna funkcija]]

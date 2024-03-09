@@ -5,6 +5,8 @@
 	1. [[#Seštevanje/odštevanje]]
 	2. [[#Množenje]]
 	3. [[#Deljenje]]
+4. [[#Grafi]]
+	1. [[#Primer]]
 ---
 # Definicija
 $$p(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+...+a_{1}x+a_{0};n\in\Bbb{N};a\in\Bbb{R}$$
