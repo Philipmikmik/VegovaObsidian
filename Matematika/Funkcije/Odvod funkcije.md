@@ -35,6 +35,7 @@ $$f'(x)= \lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}$$
 - $(\cot x)'=\frac{-1}{\sin^{2} x}$
 ---
 # Iskanje kotov
+- Funkcija tangente -> $y-y_{0}=k_{t}(x-x_{0})$
 ### Naklonski kot krivulje
 $$\tan{\alpha}=\frac{\Delta y}{\Delta x}=k_t=f'(x_0)$$
 - **Kot med krivuljo in x-osjo v ničli**
@@ -42,6 +43,7 @@ $$\tan{\alpha}=\frac{\Delta y}{\Delta x}=k_t=f'(x_0)$$
 ### Med dvema krivuljama
 $$\tan\varphi=|\frac{k_1-k_2}{1+k_1*k_2}|$$
 - **Če je imenovalec 0 je $\varphi=90^{ \circ }$**
+- Enačiš funkcije
 ---
 # Eksteremi
 - Def.: **Okolica točke je interval realnih števil okoli točke**
