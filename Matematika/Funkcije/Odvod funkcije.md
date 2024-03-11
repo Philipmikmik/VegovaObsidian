@@ -22,10 +22,11 @@ $$f'(x)= \lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}$$
 - $(f * g)' = f'*g + f*g'$
 - $(\frac{f}{g})'=\frac{f'*g-f*g'}{g^{2}}$
 - $(c*f)'=c*f'; c\in\mathbb{R}$
+- $(f\circ g)'=(f'\circ g)*g'$
 ### Odvodi nekaterih funkcij
 - $(x^n)'=n*x^{n-1}$
 - $(c)' = 0$
-- $(e^{x})'=e^{x}$
+- $(e^{x})'=e^{x}*x'$
 - $(a^{x})'=a^{x}*\ln{x}$
 - $(\log_{a}{x})'=\frac{1}{x*\ln{a}}$
 - $(\ln x)=\frac{1}{x}$
