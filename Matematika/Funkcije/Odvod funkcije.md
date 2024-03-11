@@ -11,7 +11,7 @@
 # Definicija
 $$f'(x)= \lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}$$
 - **Odvod funkcije je enak limiti diferenčnega kvocienta, ko gre $h \rightarrow 0$**
-- *Odvod funkcije v dani točki je enak $k$ (diferenčni kvocient) tangente/dotikalnice na grafu funkcije v tej točki*
+- *Odvod funkcije v dani točki je enak $k$ (diferenčni kvocient) tangente/dotikalnice na grafu funkcije v tej točki.*
 - $k=\frac{\Delta x}{\Delta y}=\frac{f(x+h)-f(x)}{h}$
 - $f\parallel g \Rightarrow k_f=k_g$
 - $f\perp g \Rightarrow k_{f}= -\frac{1}{k_g}$
