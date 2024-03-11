@@ -13,8 +13,8 @@ $$f'(x)= \lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}$$
 - **Odvod funkcije je enak limiti diferenčnega kvocienta, ko gre $h \rightarrow 0$**
 - *Odvod funkcije v dani točki je enak $k$ (diferenčni kvocient) tangente/dotikalnice na grafu funkcije v tej točki*
 - $k=\frac{\Delta x}{\Delta y}=\frac{f(x+h)-f(x)}{h}$
-- $f\parallel g \Leftrightarrow k_f=k_g$
-- $f\perp g \Leftrightarrow k_{f}= -\frac{1}{k_g}$
+- $f\parallel g \Rightarrow k_f=k_g$
+- $f\perp g \Rightarrow k_{f}= -\frac{1}{k_g}$
 ---
 # Računanje z odvodi
 ### Pravila
@@ -46,7 +46,7 @@ $$\tan\varphi=|\frac{k_1-k_2}{1+k_1*k_2}|$$
 # Eksteremi
 - Def.: **Okolica točke je interval realnih števil okoli točke**
 - *Funkcija $f$ ima v točki $x_{0}$ lokalni maksimum($M$)/minimum($m$), če obstaja okolica točke $x_0$, da je za vsak $x$ iz te okolice $f(x)\leq M$/$f(x)\geq m$*
-- $x_{0} \rightarrow f'(x)=0$ -> stacionarna točka
+- $x_{0} \Rightarrow f'(x)=0$ -> stacionarna točka
 - $f'(x_{0})\gt0$ je lokalni minimum
 - $f'(x_{0})\lt0$ je lokalni maksimum
 - $f'(x_{0})=0$ je sedlo
