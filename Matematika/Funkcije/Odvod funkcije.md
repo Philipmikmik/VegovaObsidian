@@ -20,7 +20,7 @@ $$f'(x)= \lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}$$
 ### Pravila
 - $(f\pm g)'=f' \pm g'$
 - $(f * g)' = f'*g + f*g'$
-- $(\frac{f}{g})'=\frac{(f*g)'}{g^{2}}$
+- $(\frac{f}{g})'=\frac{f'*g-f*g'}{g^{2}}$
 - $(c*f)'=c*f'; c\in\mathbb{R}$
 ### Odvodi nekaterih funkcij
 - $(x^n)'=n*x^{n-1}$
