@@ -1,7 +1,7 @@
 
 [Osnovna sintax](https://www.markdownguide.org/basic-syntax/)
 1. \# -> Header, več #, manjši header, nižje po hierarhiji
-2. $ \$ -> [matematika](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference); \$\$\$\$ -> večja matematika
+2. $ \$ -> [matematika](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) ([list](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)); \$\$\$\$ -> večja matematika
 3. \`\`\` -> codeblock
 4. \* \* -> *italics*
 5. \*\* \*\* -> **bold**
