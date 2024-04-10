@@ -8,4 +8,3 @@
 8. [Colored text](obsidian://show-plugin?id=colored-text)
 9. [Highlithr](obsidian://show-plugin?id=highlightr-plugin)
 10.  [Excalidraw](obsidian://show-plugin?id=obsidian-excalidraw-plugin)
-12345
