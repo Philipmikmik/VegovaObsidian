@@ -9,3 +9,10 @@
 - [[Psihologija/Čustva|Čustva]]
 - [[Psihologija/Motivacija|Motivacija]]
 - [[Psihologija/Osebnost|Osebnost]]
+---
+# FIZ
+- Neja Benedetič
+### 3. - 12. 4. 2024
+- [[Atom]]
+- [[Jedrske reakcije]]
+- [[Svetloba]]
