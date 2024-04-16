@@ -24,7 +24,7 @@ $$^A_Z\times$$
 - **Velikost** -> $r=r_1\sqrt[3]{A}$
 	- $r_1=1.1*10^{-15}m$ -> *polmer vodikovega jedra*
 - **Gostota** -> $\rho=\frac{m}{V}=3*10^{17}\frac{kg}{m^{3}}$
-- **Masni defekt** -> $\sum m(nukleonov)\gt m(jedra)$
+- **Masni defekt** -> $\Delta m=\sum m(nukleonov)- m(jedra)$
 - **Vezavna energija** -> $\omega=\frac{E}{A}$
 ---
 # Modeli

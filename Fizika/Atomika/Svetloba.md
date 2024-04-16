@@ -3,7 +3,6 @@
 2. [[#Fotoefekt]]
 	1. [[#Hertz]]
 	2. [[#Fotocelica]]
-3. [[#Rentgenska svetloba]]
 ---
 # Definicija
 - **Dualizem**
@@ -12,7 +11,7 @@
 - **Hitrost svetlobe** -> $c=3*10^8\frac{m}{s}=\nu*\lambda$
 	- $\nu$ -> *frekvenca* \[$Hz$]
 	- $\lambda$ -> *valovna dolžina* \[$m$]
-- **Energija fotona** -> $W_{f}=h*\nu$
+- **Energija fotona** -> $W_{f}=h*\nu=\frac{h*c}{\lambda}$
 	- $h$ -> *planckova konstanta* ($6.63*10^{-34} Js$)
 ---
 # Fotoefekt
@@ -34,20 +33,3 @@ $$W_{k_{max}}=W_{f}=h*\nu_{max}=\frac{h*c}{\lambda_{min}}$$
 ![[Svetloba 2024-04-10 18.18.31.excalidraw|100%]]
 
 ---
-# Radioaktivnost
-$$N_{(t)}=N_{0}*e^{-\lambda t}$$
-- $N_{0}$ -> *začetno št. jeder*
-- $\lambda$ -> *razpadna konstanta* $=\frac{\ln 2}{t_{1/2}}$
-- $t_{1/2}$ -> *razpolovni čas*
-- **Povprečen življenski čas** -> $T=\frac{1}{\lambda}$
-```functionplot
----
-title: 
-xLabel: t
-yLabel: N
-bounds: [0,5,0,5]
-disableZoom: true
-grid: true
----
-f(x)=(1/(x)^2)
-```
