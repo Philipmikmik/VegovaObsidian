@@ -2,6 +2,8 @@
 - Alenka Hari
 ###  2. - *12. 3. 2024*
 - [[Odvod funkcije]] 
+### 3. - 19. 4. 2024
+- [[Kombinatorika]]
 ---
 # PSI
 - Sanja Ćorić
