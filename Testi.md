@@ -8,9 +8,9 @@
 # PSI
 - Sanja Ćorić
 ### 3. - *16. 4. 2024*
-- [[Psihologija/Čustva|Čustva]]
-- [[Psihologija/Motivacija|Motivacija]]
-- [[Psihologija/Osebnost|Osebnost]]
+- [[6. Čustva.pdf|Čustva]]
+- [[7. Teorija navezanosti.pdf|Navezanost]]
+- [[8. Osebnost in samopodoba.pdf|Osebnost]]
 ---
 # FIZ
 - Neja Benedetič
