@@ -26,13 +26,15 @@
 	- *Svetlobno tesna škatla*
 	- *Luknja v škatli*
 	- *Svetlobno občutljiva snov*
-2. Skiciraj enostavno kamero. ![[Pasted-image-20240505111837.png]]
+2. Skiciraj enostavno kamero. 
+	![[Pasted-image-20240505111837.png]]
 3. Čemu služi **ohišje**.
 	- *Ne prepušča nezaželene svetlobe.*
 4. Kateri dve vrsti **svetlobno občutljivih snovi** danes najpogosteje uporabljamo?
 	- *Fotografski film*
 	- *Digitalni slikovni senzor*
-5. Skiciraj in opiši **sodobno kamero**.![[Pasted-image-20240505112223.png]]
+5. Skiciraj in opiši **sodobno kamero**.
+	![[Pasted-image-20240505112223.png]]
 6. Zakaj potrebujemo **obroč za ostrenje**?
 	- *Skrbi da se svetlobno občutljiva snov nahaja na mestu kjer se svetlobni snop seka*
 7. Zakaj potrebujemo **zaklop**?
@@ -71,7 +73,8 @@
 		- *Dražje*
 ---
 # 3. Objektiv
-1. Skicirajte in razložite glavne značilnosti **enostavne kamere z luknjico**.![[Pasted-image-20240505113145.png]]
+1. Skicirajte in razložite glavne značilnosti **enostavne kamere z luknjico**.
+	![[Pasted-image-20240505113145.png]]
 2. Glavni težavi **kamere z luknjico**?
 	- *Nič ne moreš prilagajati*
 	- *Izris posnetka ni oster*
@@ -111,7 +114,8 @@
 	- *Zaslonka določa **količino prepuščene svetlobe** skozi objektiv do svetlobno občutljive snovi.*
 2. Kaj je **svetlobna jakost** objektiva?
 	- *Zaslonsko število, ki ustreza povsem odprti zaslonki.*
-3. Napišite zaslonska števila med **f/2,8** in **f/22** v korakih za celo zaslonsko število in v korakih za **polovična zaslonska števila**.![[Pasted image 20240505121102.png]]
+3. Napišite zaslonska števila med **f/2,8** in **f/22** v korakih za celo zaslonsko število in v korakih za **polovična zaslonska števila**.
+	![[Pasted image 20240505121102.png]]
 4. Kolikšna je svetlobna jakost objektiva s sledečimi podatki: **18–250 mm, f/3,5–f/6,3**?
 	- **f/3,5** –> *najbolj odprta zaslonka*
 	- **f/6,3** –> *najbolj zaprta zaslonka*
@@ -124,7 +128,8 @@
 2. Kako se spremeni risba objekta na posnetku, če **goriščnico podaljšamo**? Kako, če jo **skrajšamo**?
 	- **Podaljšanje** -> *risba se poveča*
 	- **Zmanjšanje** -> *risba se zmanjša*
-3. V katere tri **glavne skupine** delimo objektive glede na njihovo **goriščno razdaljo**? Podajte meje ekvivalentnih goriščnic v mm za posamezne skupine objektivov.![[Pasted image 20240505121537.png]]
+3. V katere tri **glavne skupine** delimo objektive glede na njihovo **goriščno razdaljo**? Podajte meje ekvivalentnih goriščnic v mm za posamezne skupine objektivov.
+	![[Pasted image 20240505121537.png]]
 4. Ali je zaslonsko število odvisno od nastavljene goriščnice na **zumobjektivu**?
 	- *Mislim da ne, ampak sam svetlobna jakost.*
 5. Kaj je **normalni objektiv**, kaj je glavna značilnost njegove risbe?
@@ -145,17 +150,102 @@
 	- **Ribje oko** -> *širokokotnik z vidnim kotom vsaj 180 °, običajno 220 °, posnetek običajno riše v obliki kroga*
 11. Katero skupino objektivov lažje naredimo pri kamerah z **majhnimi slikovnimi senzorji**, **širokokotnike** ali **teleobjektive**?
 	- *Širokokotnike*
-12. Razdelite **širokokotnike v podskupine** in podajte njihove meje v **ekvivalentnih goriščnicah**.![[Pasted image 20240505122239.png]]
-13. Razdelite **teleobjektive v podskupine** in podajte njihove meje v **ekvivalentnih goriščnicah**.![[Pasted image 20240505122259.png]]
+12. Razdelite **širokokotnike v podskupine** in podajte njihove meje v **ekvivalentnih goriščnicah**.
+	![[Pasted image 20240505122239.png]]
+13. Razdelite **teleobjektive v podskupine** in podajte njihove meje v **ekvivalentnih goriščnicah**.
+	![[Pasted image 20240505122259.png]]
 14. Kaj je **portretni objektiv**? Ali ga lahko uporabljamo zgolj za **portretiranje**?
 	- *Portretni objektivi so posebna kategorija teleobjektivov. Običajno jih navajamo ločeno zaradi njihovih posebnih zahtev. 
 	- *Pomembna kakovostna risba in njena mehkoba pri precej odprtih zaslonkah za kakovosten izris globinske neostrine (bokeh) pred in za portretirancem.* 
 	- *Ne.*
 15. Kaj je **zumobjektiv**?
 	- *Imajo spremenljivo goriščnico*
-16. Naštejte vsaj 3 **prednosti zumobjektivov**. Naštejte vsaj 3 **slabosti zumobjektivov**.![[Pasted image 20240505122514.png]]
+16. Naštejte vsaj 3 **prednosti zumobjektivov**. Naštejte vsaj 3 **slabosti zumobjektivov**.
+	![[Pasted image 20240505122514.png]]
 17. Kaj je **makroobjektiv**? Kaj je objektiv za **bližinsko fotografijo**?
 	- *Makroobjektiv lahko toliko približamo motivu in še vedno izostrimo posnetek, da je risba motiva vsaj tako velika, kot je dejanska velikost motiva.*
+---
+# 6. Svetlobno občutljivi materiali
+1. Katera dva **svetlobno občutljiva materiala** danes **največ uporabljamo**?
+	- *Digitalni slikovni senzor*
+	- *Fotografski film*
+2. Naštetje **glavne lastnosti**, po katerih razlikujemo svetlobno občutljive materiale.
+	- *Občutljivost na svetlobo*
+	- *Zrnatost (film) in digitalni šum (slikovni senzor)*
+	- *Svetlobni kontrast*
+3. Kako je narejen **fotografski film**?
+	- *Narejen je iz plastične baze (acetata), nanj nanesena emulzija s svetlobno občutljivo snovjo.*
+4. Kaj je **slikovni senzor**? Kateri tehnologiji uporabljamo za **izdelavo slikovnih senzorjev**?
+	-  **Elektronski sklop** => *pretvori optično sliko v električni signal*
+	-  **CCD** *(svetloba -> el. Naboj -> napetost -> A/D v digitalni zapis)*
+	-  **CMOS** *(svetloba -> el. Napetost -> A/D v digitalni zapis)*
+5. Naštejte vsaj **štiri različne tipe elektronskih naprav**, v katere je vgrajen **slikovni senzor**.
+	-  *Fotoaparati*
+	-  *Digitalne videokamere*
+	-  *Kamkorderji*
+	-  *Telefoni*
+6. Kateri filter je **nujno** nameščen pred slikovnim senzorjem in zakaj?
+	- **IR Filter** => *blokira infrardečo svetlobo in skozi spusti samo vidno svetlobo*
+7. Ali ima **slikovni senzor** toliko celic kot ima pikslov? Odgovor utemeljite.
+	- *Večinoma ne.*
+	- **Faveon X3** => *ima za vsak piksel po eno celico*
+	- **Bayerjev vzorec** => *ima eno celico za eno barvo*
+8. Kako imenujemo **razporeditev filtrov** osnovnih barv pred slikovnimi celicami, ki jo uporablja večina **digitalnih kamer**? Kdo in kdaj je izumil to razporeditev?
+	- **Bayerjev vzorec**
+	- **Bryce Bayer** => *1976, ko je delal za Eastman Kodak*
+9. Kaj pomeni, da je posnetek »mehek«? Kaj pomeni, da je »trd«?
+	- **Mehek** => *razmerje med črno in belo ni izrazito*
+	- **Trd** => *razmerje med črno in belo je izrazito (bel ptič na črnem ozadju)
+10. Zakaj sta **zrnatost oz. digitalni šum** v posnetkih moteča? Kako vplivata na posnetek?
+	- **Zrnatost** => *posnetek bolj grob, manj oster, manj detajlov*
+	- **Digitalni šum** => *naključno spreminjanje svetlosti in barve v delih posnetka*
+11. Kako se spreminjata **zrnatost oz. šum** z naraščanjem **svetlobne občutljivosti ISO**?
+	- *Postajata bolj izrazita*
+12. Kje je **meja še uporabne svetlobne občutljivosti ISO** za večino današnjih kamer?
+	- *ISO 400*
+13. Kateri sistem **podajanja svetlobne občutljivosti** uporabljamo danes?
+	- *ISO*
+14. Kaj je **osnovna občutljivost slikovnega senzorja**? Kaj je značilno zanjo glede posnetka? Kolikšna je **osnovna občutljivost slikovnega senzorja** za večino današnjih kamer?
+	- *Občutljivost pri kateri senzor ne slabi in ojačuje električnih signalov*
+	- *Zagotavlja najvišjo kakovost posnetka; najnižji šum, najkakovostnejšo reprodukcijo barv in detajlov na posnetku*
+	- *ISO 200*
+15. Kako digitalna kamera doseže svetlobne občutljivosti, ki so **nižje in višje od osnovne**? Kako to vpliva na posnetek?
+	-  **Nižje** => *slablenje električnega signala; s tem zmanjša število razpoložnjivih barv za zapis posnetka, zviša kontrast. Ne vpliva na digitalni šum in ima manjši vpliv na kakovost posnetka kot ojačitev*
+	-  **Višje** => *ojačitev električnega signala; ojači tudi šum, popačitve električnega signala*
+16. Kaj je **optična stabilizacija** in kaj **digitalna stabilizacija** slike?
+	- **Optična stabilizacija** => *s premikanjem leč kompenzirajo premike kamere zaradi tresenja*
+	- **Digitalna stabilizacija** => *z uporabo matematičnih algoritmov ali pa med snemanjem nastavi visoko svetlobno občutljivost slikovnega senzorja, da zagotovi snemanje z najkrajšim možnim osvetlitvenim časom. Krajši osvetlitveni čas pomeni višji šum, manj detajlov, slabša reprodukcija barv*
+17. Napišite **lestvico celih vrednosti svetlobnih občutljivosti ISO** od ISO 50 do ISO 3200.
+	- *50, 100, 200, 400, 800, 1600, 3200*
+18. Kaj je **»dpi«**? Kolikšna je vrednost dpi za zaslon računalniškega monitorja in koliko za kakovostno izdelavo fotografij?
+	-  **DPI** => *“Dots per inch”*
+	-  **Monitor** => *96 – 120 dpi*
+	-  **Fotografija** => *300 dpi*
+---
+# 7. Osvetlitveni čas
+1. Kakšna je **vloga zaklopa** v kameri?
+    - *Zaklop prepusti svetlobo do svetlobno občutljive snovi za točno določen čas 
+    - *Prepusti jo samo, ko snemalec pritisne sprožilec zaklopa 
+    - *Snemalec določi kdaj se bo osvetlitev začela (s klikom na gumb), zaklop pa zaključi osvetlitev*
+2. Kateri **vrsti zaklopov** srečamo v kamerah?
+    - **Mehanski** zaklop
+    - **Elektronski** zaklop
+3. Koliko **časa zaklop** prepušča svetlobo v **idealnem primeru**?
+    - *Toliko časa, da bo posnetek pravilno osvetljen*
+4. Navedite **lestvico celih osvetlitvenih časov** od 2 s do 1/1000 s.
+    - *2, 1, ½, ¼, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000 s*
+5. Navedite **območje osvetlitvenih časov**, ki so najbolj uporabni za splošno fotografijo.
+    - *Med 1/30 in 1/2000 s*
+6. Kaj pomeni **nastavitev B**?
+    - *Neskončni osvetlitveni čas. Zaklop ostane odprt, dokler držimo sprožilec zaklopa.*
+7. Za katere **motive oz. vrsto fotografije** potrebujemo zelo **kratke osvetlitvene čase**?
+    - *Športno fotografijo*
+    - *Snemanje prevoznih sredstev*
+    - *Živali med gibanjem*
+8. Kaj pravi **pravilo najdaljšega osvetlitvenega časa**?
+    - *Pravilo najdaljšega osvetlitvenega časa se nanaša na odpravljanje neostrine zaradi tresenja rok med osvetlitvijo posnetka. 
+    - *Goriščnica $\ge$ 30mm -> NOČ = 1/goriščnica s*
+    - *Goriščnica $\lt$ 30mm -> NOČ = 1/30 s*
 ---
 # 8. Osvetlitev posnetka
 1. Kaj pomenijo sledeči pojmi: **podosvetljen posnetek**, **nadosvetljen posnetek**, **preosvetljen posnetek**.
