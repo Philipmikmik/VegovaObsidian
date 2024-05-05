@@ -335,3 +335,78 @@
 	- **Barvni kalibrator**
 10. Kaj želimo doseči pri nastavljanju ravnovesja **beline**?
 	- *Podobnost barve na posnetkih barvam ki jih vidimo mi*
+---
+# Obdelava slik
+- Obdelava posameznih pritiskov (pointprocessing)
+- Filtriranje
+- Transformacija slik
+- Sestavljanje slik
+### OBDELAVA POSAMEZNIH SLIK
+- Definiramo funkcijo, spremeni vrednostpiksla r, neodvisno od drugih
+- s (novi piksel) =T(r(stari piksel))
+- T -> transformacijska funkcija
+- **NEGATIV:** 
+	- vrednost_novega_piksla = 1(v RGB je vedno 255) - vrednost_starega_piksla
+		- RGB od 0 - 255 
+		- alfa od 0 - 100 (prosojnost slike)
+- **PRAGOVNO:** 
+	- vse kar je pod neko vrednostjo gre na 1 ali pa na 0
+	- nova_vrednost = 255 ali 0
+	- prag se računa na podlagi povprečne vrednosti pikslov
+- **SPREMEMBA V SVINSKO SLIKO:** (grayscale)
+	- nova_vrednost = R/3 + G/3 + B/3
+- **GAMA KOREKCIJA:**
+	- potenciramo vrednost, če je vrednost potence majša kot ena se posvetli, če je večja kot ena se potemni
+	- Weberjev zakon ( da smo ljudje bolj občutljivi na stvari pri manjših intezitetah kot pri velikih )
+	- (sprememba dolžine)/dolžino = k
+- **POPRAVLJANJE SVETLOBE BARVNIH SLIK**
+	- pretvorimo v barvni prostor, kjer je svetloba zapisana neodvisno:
+		- HSV
+		- HSL(Hui Saturation Lightnes)
+		- YCbCr
+- **FILTRIRANJE**
+	- Sprememba piksla odvisna od vrednosti sosednjih pikslov
+	- Filter definiramo kot matriko velikosti m*m
+	- Uporablja za:
+		- Odstranjevanje šuma
+		- Spreminjanje velikosti
+		- Transformacije
+		- Detekcijo robov
+		- Iskanje vzorcev
+		- ...
+- **BOX FILTER** 
+	- vzame povprečeje vseh pikslov okoli njega 
+	- vzame matriko 3\*3 in množi z 1 sešteje vse in deli z 9 to je vrednost piksla, ki je v sredini samo BOX FILTER NIČ DRUGEGA
+- **GLAJENJE - BOX FILTER**
+	- Računa povprečje vrednost sosednjih pikslov
+	- Zgladi sliko
+	- Odstrani hitre prehode ( visok- frekvence )
+	- Deluje kot nizkoprepustni filter ( low pass filter )
+- **GLAJENJE - MEDIANIN FILTER**
+	- Zamenja vrednost pikslov mediano vseh pikslov znotraj filtra
+	- Najbolj efektivna pri točkastem šumu
+- **SOBEL**
+	- Za črte lahko navpiče ali vodarvne
+- **OSTRENJE (SHARPENING)**
+	- Laplacov operator (odstrani ostre robove)
+	- Poiščemo visoke konstraste
+	- Odštejemo razliko
+	- Narediš razliko med slikama in imaš izostreno
+- **OSTRENJE (unsharpened masking)**
+	- Sliki odštejemo zglajeno sliko
+		- ostanje visoke frekvence(robovi)
+	- Rezultat prištejemo originalu	
+- **TRANSFORMACIJE SLIK**
+	- Spreminjajo razmerja pikslov na sliki
+		- Skaliranje
+		- Rotacija
+		- Nelinearne transformacije (warping)
+	- Delamo v 2. korakih
+		- Preslikava pikslov (mapping)
+		- Prevzorčenje (resampling)
+- **INTERPOLACIJA**
+	- nov piksel je (%oddaljenost od prvega levega*vrednost prvega desnega + %oddaljenosti prvega desnega*vrednost prvega levega 
+	- Slika je vzorčen signal 
+	- Želimo prevzorčiti sliko (npr. ko jo zmanjšamo)
+	- Uporabimo okno (FILTER), znotraj katerega uteženo seštejemo piksle - INTERPOLACIJA
+	- Rezultat je prevzorčena slika
