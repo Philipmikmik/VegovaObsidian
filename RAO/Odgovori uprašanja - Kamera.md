@@ -42,7 +42,8 @@
 8. Zakaj potrebujemo **zaslonko**?
 	- *Nadzira koliko svetlobe doseže senzor/film (koliko je objektiv odprt)*
 9. Čemu služijo **računalniki** in **motorji** v **sodobni kameri**?
-	- *Služijo avtomatizaciji nadzornih sistemov v kameri. Niso nujni ampak močno olajšajo delo.*
+	- *Služijo avtomatizaciji nadzornih sistemov v kameri. 
+	- *Niso nujni ampak močno olajšajo delo.*
 10. Vrste kamer glede na **vgrajeno iskalo**?
 	- *Kamere z enostavnim iskalom*
 	- *Zrcalno-refleksne kamere*
@@ -176,13 +177,13 @@
 3. Kako je narejen **fotografski film**?
 	- *Narejen je iz plastične baze (acetata), nanj nanesena emulzija s svetlobno občutljivo snovjo.*
 4. Kaj je **slikovni senzor**? Kateri tehnologiji uporabljamo za **izdelavo slikovnih senzorjev**?
-	-  **Elektronski sklop** => *pretvori optično sliko v električni signal*
-	-  **CCD** *(svetloba -> el. Naboj -> napetost -> A/D v digitalni zapis)*
-	-  **CMOS** *(svetloba -> el. Napetost -> A/D v digitalni zapis)*
+	- **Elektronski sklop** => *pretvori optično sliko v električni signal*
+	- **CCD** *(svetloba -> el. Naboj -> napetost -> A/D v digitalni zapis)*
+	- **CMOS** *(svetloba -> el. Napetost -> A/D v digitalni zapis)*
 5. Naštejte vsaj **štiri različne tipe elektronskih naprav**, v katere je vgrajen **slikovni senzor**.
-	-  *Fotoaparati*
-	-  *Digitalne videokamere*
-	-  *Kamkorderji*
+	- *Fotoaparati*
+	- *Digitalne videokamere*
+	- *Kamkorderji*
 	-  *Telefoni*
 6. Kateri filter je **nujno** nameščen pred slikovnim senzorjem in zakaj?
 	- **IR Filter** => *blokira infrardečo svetlobo in skozi spusti samo vidno svetlobo*
@@ -195,7 +196,7 @@
 	- **Bryce Bayer** => *1976, ko je delal za Eastman Kodak*
 9. Kaj pomeni, da je posnetek »mehek«? Kaj pomeni, da je »trd«?
 	- **Mehek** => *razmerje med črno in belo ni izrazito*
-	- **Trd** => *razmerje med črno in belo je izrazito (bel ptič na črnem ozadju)
+	- **Trd** => *razmerje med črno in belo je izrazito (bel ptič na črnem ozadju)*
 10. Zakaj sta **zrnatost oz. digitalni šum** v posnetkih moteča? Kako vplivata na posnetek?
 	- **Zrnatost** => *posnetek bolj grob, manj oster, manj detajlov*
 	- **Digitalni šum** => *naključno spreminjanje svetlosti in barve v delih posnetka*
@@ -224,8 +225,8 @@
 ---
 # 7. Osvetlitveni čas
 1. Kakšna je **vloga zaklopa** v kameri?
-    - *Zaklop prepusti svetlobo do svetlobno občutljive snovi za točno določen čas 
-    - *Prepusti jo samo, ko snemalec pritisne sprožilec zaklopa 
+    - *Zaklop prepusti svetlobo do svetlobno občutljive snovi za točno določen čas* 
+    - *Prepusti jo samo, ko snemalec pritisne sprožilec zaklopa*
     - *Snemalec določi kdaj se bo osvetlitev začela (s klikom na gumb), zaklop pa zaključi osvetlitev*
 2. Kateri **vrsti zaklopov** srečamo v kamerah?
     - **Mehanski** zaklop
@@ -243,7 +244,7 @@
     - *Snemanje prevoznih sredstev*
     - *Živali med gibanjem*
 8. Kaj pravi **pravilo najdaljšega osvetlitvenega časa**?
-    - *Pravilo najdaljšega osvetlitvenega časa se nanaša na odpravljanje neostrine zaradi tresenja rok med osvetlitvijo posnetka. 
+    - *Pravilo najdaljšega osvetlitvenega časa se nanaša na odpravljanje neostrine zaradi tresenja rok med osvetlitvijo posnetka.*
     - *Goriščnica $\ge$ 30mm -> NOČ = 1/goriščnica s*
     - *Goriščnica $\lt$ 30mm -> NOČ = 1/30 s*
 ---
@@ -275,7 +276,8 @@
 	- ***Kvadrat** ki je od desne spodaj do leve zgoraj diagonalno razpolovljen, spodnja polovica je črna in ima na sredini bel minus, zgornja polovica pa je bela in ima na sredini črn plus*
 	- Ja najdu sm ga
 9. Na katere načine lahko kamera izvede **kompenzacijo osvetlitve posnetka**? 
-	- *Samodejno in ročno, kompenzacija spremeni osvetlitev posnetka za nek **EV**.
+	- *Samodejno in ročno*
+	- *Kompenzacija spremeni osvetlitev posnetka za nek **EV**.*
 	- **Exposure value** -> *osvetlitvena vrednost*
 10. Kaj lahko nastavimo za **samodejno kompenzacijo osvetlitve posnetka**? 
 	- *Korak kompenzacije, ki ga nastavi fotograf* 
